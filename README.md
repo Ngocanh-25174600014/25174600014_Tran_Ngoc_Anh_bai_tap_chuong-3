@@ -1,5 +1,3 @@
-# 25174600014_Tran_Ngoc_Anh_bai_tap_chuong-3
-bài tập cá nhân
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer efficitur, eros at
 lacinia suscipit, magna turpis aliquam est, sit amet aliquam quam libero id mi. Ut vel
 placerat risus. Sed tempor in ex vitae sodales. Donec et tempor orci. In pharetra
